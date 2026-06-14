@@ -1,0 +1,7 @@
+sudo su
+
+then enter password
+   apt install slowhttptest
+
+slowhttptest   url -c 999 -l  999
+Credit_Card_Fraud_Detection/fraudTest.csv
